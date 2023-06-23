@@ -1,4 +1,4 @@
-# lista-1-python-brasil
+# lista-um-python-brasil
 Lista um python brasil em java
 
 Meu perfil no LinkedIn é https://www.linkedin.com/in/gabriela-amorim-60526b275/
